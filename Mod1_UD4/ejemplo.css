@@ -1,0 +1,38 @@
+h1{color: deepskyblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: aquamarine;
+    text-align: center;}
+    h2{color: orange;
+    background-color: yellow;
+    font-size: 30px;}
+    h3{color: brown;
+    background-color: aquamarine;}
+    h4{color: red;
+    background-color: aquamarine;}
+    
+    
+    .lista_serie{color: chartreuse;
+    font-style: oblique;}
+    .lista_pelis{color: black;
+    font-size: 15px;}
+    .sanlorenzo1{color: black;
+    font-size: 20px;}
+    .sanlorenzo2{color: red;
+    font-size: 20px;}
+    #rojo{
+        color: blue;
+        background-color: red;
+    width: 400px;
+    height: 400px;
+    padding: 30px;
+    border: 5px solid black;
+    box-sizing: border-box;}
+    #azul{
+        background-color: aquamarine;
+    width: 400px;
+    height: 400px;
+    padding: 30px;
+    border: 5px solid black;
+    box-sizing: border-box;
+    margin-left: 800px;}
+    
